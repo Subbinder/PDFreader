@@ -8,3 +8,5 @@ A simple Python application that converts PDF text into spoken audio. It uses a 
 
 * **File Selection:** Uses a native file explorer to pick any `.pdf` file.
 * **Text Extraction:** Reads text content from every page of the selected PDF.
+* **Text-to-Speech:** Utilizes the `pyttsx3` library to synthesize speech.
+* **GUI Controls:** Includes a Tkinter-based window with a "Stop" button.
