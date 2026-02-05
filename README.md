@@ -14,3 +14,6 @@ A simple Python application that converts PDF text into spoken audio. It uses a 
 ## 🛠️ Requirements
 
 Before running the script, ensure you have the following Python libraries installed:
+
+```bash
+pip install PyPDF2 pyttsx3
